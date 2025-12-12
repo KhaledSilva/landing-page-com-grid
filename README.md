@@ -22,10 +22,11 @@ Quando for selecionado algumas das opções no cabeçalho ela pula para a seçã
 - **Menu hambúrguer:** Contrai o cabeçalho para dispositivos com telas menores 
 
 ## 📷 Screenshot
-
+![imagem do desafio finalizado](<img width="3796" height="1679" alt="image" src="https://github.com/user-attachments/assets/6940b7e1-7f25-414b-8c3c-e499e3aaa520" />
+)
 ## 🔗 Links
 
-- Site no ar URL: [Clique-aqui]()
+- Site no ar URL: [Clique-aqui](https://khaledsilva.github.io/landing-page-com-grid/)
 
 ## 💻 Tecnologias utilizadas
 
